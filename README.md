@@ -1,3 +1,20 @@
+# Xamarin, iOS / Andriod, app builds
+
+# Top and Bottom Menu app display
+
+# Single CodeBase
+
+#![Simulator Screen Shot - iPad Pro (12 9-inch) (5th generation) - 2022-02-02 at 10 01 02](https://user-images.githubusercontent.com/95377031/152217337-e6d752fd-38be-4d07-922a-8d741ca883f7.png)
+![Simulator Screen Shot - iPad Pro (12 9-inch) (5th generation) - 2022-02-02 at 10 01 34](https://user-images.githubusercontent.com/95377031/152217340-cc4c904d-642d-4ae6-9275-eceb662a691c.png)
+![Simulator Screen Shot - iPod touch (7th generation) - 2022-02-02 at 09 25 37](https://user-images.githubusercontent.com/95377031/152217344-db3b3b46-c7a4-4c1e-87be-1c2439a05fdc.png)
+![Simulator Screen Shot - iPod touch (7th generation) - 2022-02-02 at 09 59 35](https://user-images.githubusercontent.com/95377031/152217348-37439a60-fd9e-4bdd-944d-d2d751928774.png)
+![Simulator Screen Shot - iPod touch (7th generation) - 2022-02-02 at 09 59 39](https://user-images.githubusercontent.com/95377031/152217349-687779c3-335b-4df0-af71-7b47d460d559.png)
+![Simulator Screen Shot - iPod touch (7th generation) - 2022-02-02 at 09 59 44](https://user-images.githubusercontent.com/95377031/152217350-19af6918-887c-48f2-b021-c2ee462b1ec0.png)
+![Simulator Screen Shot - iPod touch (7th generation) - 2022-02-02 at 10 00 03](https://user-images.githubusercontent.com/95377031/152217352-0573c3c3-8592-4b05-9116-efd67948e5a7.png)
+
+
+# Forms Gallery
+
 # Xamarin.Forms code samples
 
 The samples in this repository demonstrate how to use different aspects of Xamarin.Forms to build cross-platform apps for iOS, Android, and the Universal Windows Platform (UWP). Please visit Microsoft [code sample browser](https://docs.microsoft.com/samples/browse/?term=Xamarin.Forms) to download individual samples.
